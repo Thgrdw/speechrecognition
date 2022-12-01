@@ -16,15 +16,15 @@ hasil = " "
 engine.pause_treshold = 4
 
 with mic as source:
-    print("Ngomong")
+    print("Silahkan Berbicara!!")
     rekaman = engine.listen(source)
-    print("Tetot")
+    print("Maaf Waktu Habis")
     
     try:
         hasil = engine.recognize_google(rekaman, language = "id.ID")
         print(hasil)
     except engine.UnknownValueError:
-        print("Tidak dengar, ulang")
+        print("Mohon maaf tidak terdeteksi, silahkan ulangi")
     except Exception as e:
         print(e)
 
