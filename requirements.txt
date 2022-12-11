@@ -4,4 +4,5 @@ streamlit-webrtc
 setuptools
 pyproject.toml
 pipwin
-PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+PyAudio==0.2.11
+pydub==0.25.1
