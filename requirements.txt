@@ -4,4 +4,3 @@ streamlit-webrtc
 setuptools
 pyproject.toml
 pipwin
-PyAudio
