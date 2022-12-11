@@ -3,3 +3,4 @@ SpeechRecognition==3.9.0
 PyAudio
 streamlit-webrtc
 setuptools
+pyproject-toml
