@@ -5,4 +5,4 @@ setuptools
 pyproject.toml
 pipwin
 PyAudio
-portaudio.h
+portaudio
