@@ -1,4 +1,4 @@
 Streamlit==1.15.2
 SpeechRecognition==3.9.0
 PyAudio==0.2.12
-portaudio19-dev
+portaudio
