@@ -6,7 +6,6 @@ pyproject.toml
 pipwin
 PyAudio==0.2.11
 pydub==0.25.1
-dsound
 PaAsio_GetAvailableLatencyValues    
 PaAsio_ShowControlPanel             
 PaUtil_InitializeX86PlainConverters 
