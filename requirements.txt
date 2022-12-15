@@ -6,5 +6,5 @@ pyproject.toml
 pipwin
 PyAudio==0.2.11
 pydub==0.25.1
-include/portaudio.h 
-src/hostapi/dsound
+portaudio.h 
+dsound
