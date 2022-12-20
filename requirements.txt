@@ -6,5 +6,4 @@ pyproject.toml
 pipwin
 PyAudio==0.2.11
 pydub==0.25.1
-portaudio==19 
-libportaudio2
+apt install build-essential portaudio19-dev
