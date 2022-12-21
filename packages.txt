@@ -1,9 +1,8 @@
-apt-get install streamlit==1.15.2
-SpeechRecognition==3.9.0
-streamlit-webrtc
-setuptools
-pyproject.toml
-pipwin
-PyAudio==0.2.11
-pydub==0.25.1
+apt-get install streamlit-dev
+apt-get install SpeechRecognition-dev python-all-dev
+apt-get install streamlit-webrtc-dev
+apt-get install setuptools-dev
+apt-get install pyproject.toml-dev
+apt-get install pipwin-dev
+apt-get install PyAudio-dev
 apt-get install portaudio19-dev python-all-dev
