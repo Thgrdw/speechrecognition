@@ -1,8 +1,1 @@
-apt-get install streamlit-dev
-apt-get install SpeechRecognition-dev python-all-dev
-apt-get install streamlit-webrtc-dev
-apt-get install setuptools-dev
-apt-get install pyproject.toml-dev
-apt-get install pipwin-dev
-apt-get install PyAudio-dev
 apt-get install portaudio19-dev python-all-dev
